@@ -1,2 +1,2 @@
-# Image-Encryption-using-AES
+# Image-Encryption-using-AES-algorithm
 In an environment where digital images play an increasingly significant role in multimedia technology, it becomes increasingly imperative for users to maintain their privacy. To ensure that users are protected from unauthorized access, image encryption is a must. Encrypting images and videos can be used in a number of fields, including internet communication, multimedia systems, medical imaging, telemedicine, and the military. Consequently, it is of fundamental importance for the integrity and confidentiality of images transmitted over the Internet and wireless networks.
